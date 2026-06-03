@@ -8,8 +8,12 @@ A complete creative AI system built entirely from scratch using PyTorch. Three s
 3	**Imageformer** --	Pixel images --	Vision transformer (ViT) + diffusion
 
 # ✨ Features
-🔨 **From Scratch** – No HuggingFace, no pretrained weights. Learn and control every detail.
+🔨 **From Scratch** – No HuggingFace, no pretrained weights. Learn and control every detail
+
 🎭 **Multi-Modal** – Text, music, and image generation in one unified framework
+
 ⚡ **PyTorch Native** – Pure PyTorch with custom attention implementations
+
 💾 **Lightweight** – Designed to train on consumer GPUs (tested on 8GB VRAM)
+
 🎛️ **Fully Configurable** – Embedding dimensions, layers, heads — all tunable
