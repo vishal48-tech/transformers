@@ -3,8 +3,11 @@ A complete creative AI system built entirely from scratch using PyTorch. Three s
 
 # 🧠 The Three Transformers
  Transformer -- Output --	Architecture
+ 
 1	**Storyformer** --	Text narrative --	Decoder-only (GPT-style)
+
 2	**Melodyformer** --	MIDI/music sequence --	Encoder-decoder with relative attention
+
 3	**Imageformer** --	Pixel images --	Vision transformer (ViT) + diffusion
 
 # ✨ Features
